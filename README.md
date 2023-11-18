@@ -1,1 +1,1 @@
-# coding-test
+# A record for Java coding-tests
